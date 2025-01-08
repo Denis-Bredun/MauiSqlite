@@ -20,6 +20,16 @@
 
             SemanticScreenReader.Announce(CounterBtn.Text);
         }
+
+        private void saveButton_Clicked(object sender, EventArgs e)
+        {
+
+        }
+
+        private void listView_ItemTapped(object sender, ItemTappedEventArgs e)
+        {
+
+        }
     }
 
 }
